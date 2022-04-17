@@ -10,7 +10,7 @@ This script will warn you about:
 ## How to use
 With Python installed, just put the file in your project directory and run it.
 
-To run it on Windows and Linux, simply exedcute:
+To run it on Windows and Linux, simply execute:
 ```
 python godot_checker.py
 ```
