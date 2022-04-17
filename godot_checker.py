@@ -2,8 +2,6 @@ import os
 
 
 def look_for_errors(text: str, filename: str):
-	if filename.lower() != filename:
-		print(f"Filename is not lowercase: {filename}")
 	for i, line in enumerate(text.split('\n')):
 		if line.startswith('#'):
 			continue
