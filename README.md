@@ -1,3 +1,6 @@
+# Archived
+This project will no longer be mantained.
+
 # Godot-Engine-Project-Checker
 This is a simple python script that will check your [Godot](https://github.com/godotengine/godot) project for mistakes you might have missed.
 
